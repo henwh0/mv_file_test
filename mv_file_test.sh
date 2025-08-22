@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 TARGET_DIRECTORY="$1"
 DESTINATION_DIRECTORIES=( "Docs" "Pics" )
